@@ -48,14 +48,13 @@ export default {
 <style lang="stylus" scoped>
 @import '~styles/mixins.styl'
 .title
-  margin-top: .2rem
   line-height: .8rem
   background: #eee
   text-indent: .2rem
 .item-img-wrapper
   overflow: hidden
   height: 0
-  padding-bottom: 33.9%
+  padding-bottom: 37.09%
   .item-img
     width: 100%
 .item-info
